@@ -20,7 +20,7 @@ color: #fffafa
 	font-weight: normal;
 }
 
-footer {
+footer.navbar.navbar-light.bg-faded {
   display: block;
   bottom: 0;
   width: 100%;
